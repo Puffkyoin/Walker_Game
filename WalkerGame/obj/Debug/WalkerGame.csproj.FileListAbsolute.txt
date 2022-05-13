@@ -1,0 +1,6 @@
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\bin\Debug\WalkerGame.exe
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\bin\Debug\WalkerGame.pdb
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\obj\Debug\WalkerGame.csproj.AssemblyReference.cache
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\obj\Debug\WalkerGame.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\obj\Debug\WalkerGame.exe
+D:\ПРОЕКТЫ\WalkerGame\WalkerGame\obj\Debug\WalkerGame.pdb
